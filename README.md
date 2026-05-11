@@ -34,9 +34,12 @@ https://zhuanlan.zhihu.com/p/454597068
 <!--     <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a> -->
   </div>
 
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
 </div>
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td>
       <img height="137px" src="https://github-readme-stats.vercel.app/api?username=JuLongZhiLu&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -45,7 +48,7 @@ https://zhuanlan.zhihu.com/p/454597068
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuLongZhiLu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuLongZhiLu" /> </div>
 
